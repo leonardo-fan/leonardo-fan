@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonardo-fan
 - 👀 I’m interested in 🎹🥋🤖
-- 🌱 I’m currently learning Javascript and C
-- 💞️ I’m looking to collaborate on anything cool tbh
+- 🌱 I’m currently learning the MERN stack
+- 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardofan/)
 
 <!---
