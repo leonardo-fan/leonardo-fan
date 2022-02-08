@@ -8,7 +8,7 @@ Currently a Commerce & Computer Science student at UNSW with professional experi
 
 ***
 
-### Reach out to me here:
+### Reach out here:
 [<img align="left" alt="Leonardo Fan's Email " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 [<img align="left" alt="Leonardo Fan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br/><br/>
