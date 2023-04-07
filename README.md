@@ -2,7 +2,7 @@
 
 ## Intro to me
 Currently a Commerce & Computer Science student at UNSW in the Co-op Scholarship program with professional experience across technical & project business analysis, customer experience, data migration, data visualisation and business process mapping. I'm also;
-- 🌱 Learning and working on full stack web apps
+- 🌱 Working on full stack web apps
 - 👥 Looking to collaborate on anything cool
 - 👀 Interested in piano, martial arts and all things technology 🙌
 
@@ -19,7 +19,9 @@ Currently a Commerce & Computer Science student at UNSW in the Co-op Scholarship
 #### Languages
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" alt="C#" src="ttps://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,9 +30,11 @@ Currently a Commerce & Computer Science student at UNSW in the Co-op Scholarship
 
 #### Frameworks
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 <br/>
 
 #### Databases
