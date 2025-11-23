@@ -1,10 +1,7 @@
 ### 👋 Hi, I’m Leonardo!
 
 ## Intro to me
-Currently a Commerce & Computer Science student at UNSW in the Co-op Scholarship program with professional experience across technical & project business analysis, customer experience, data migration, data visualisation and business process mapping. I'm also;
-- 🌱 Working on full stack web apps
-- 👥 Looking to collaborate on anything cool
-- 👀 Interested in piano, martial arts and all things technology 🙌
+Currently a software engineer. Previously a Commerce & Computer Science student at UNSW in the Co-op Scholarship program. Have experience across software, technology and business.
 
 ***
 
